@@ -18,3 +18,7 @@ The previous repo is for model training and evaluation, and the latter one is fo
 Our analysis is of a smaller scale, so we went for a bidirectional LSTM model for this project.
 
 We have used three notebooks for this project, two for preprocessing the data and one for training and evaluating the model.
+
+The following image shows the architecture of the project.
+
+![Architecture](model_diag.jpg)
