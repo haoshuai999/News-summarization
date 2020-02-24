@@ -15,7 +15,7 @@ While the research paper uses corpora from different fields, such as news, perso
 
 The previous repo is for model training and evaluation, and the latter one is for preprocessing the different datasets used in the paper.
 
-Our analysis is of a smaller scale, so we went for a bidirectional LSTM model for this project.
+Our analysis is of a smaller scale, so we went for a bidirectional LSTM model for this project. We used 23,000 articles to train the sentence embeddings and the model, 5,000 articles for validation and 5,000 articles for test. The Rough-1 score for our project is 0.351.
 
 We have used three notebooks for this project, two for preprocessing the data and one for training and evaluating the model.
 
